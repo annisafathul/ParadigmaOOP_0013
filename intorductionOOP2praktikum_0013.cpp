@@ -17,4 +17,4 @@ class Barangelektronik
          cout << "tanggalProduksi :" << tanggalProduksi << endl;
     }
 
-}
+};
