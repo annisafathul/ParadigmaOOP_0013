@@ -25,7 +25,15 @@ int main()
     elektronik.nama = "Mesin Cuci";
     elektronik.jumlah = 6;
     elektronik.kategori = "Elektronik";
-    elektronik.tanggalProduksi = "10-05-2023"
+    elektronik.tanggalProduksi = "10-05-2023";
 
-    
+    elektronik.spesifikasi();
+
+    Barang nonelektronik;
+    nonelektronik.nama = "Kursi";
+    nonelektronik.jumlah = 5;
+    nonelektronik.kategori = "NonElektronik";
+    nonelektronik.tanggalProduksi = "18-03-2024";
+
+    nonelektronik.spesifikasi()
 }
