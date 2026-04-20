@@ -21,5 +21,11 @@ class Barang
 
 int main()
 {
+    Barang elektronik;
+    elektronik.nama = "Mesin Cuci";
+    elektronik.jumlah = 6;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalProduksi = "10-05-2023"
+
     
 }
