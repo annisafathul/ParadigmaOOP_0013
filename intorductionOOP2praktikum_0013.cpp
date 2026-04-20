@@ -13,7 +13,8 @@ class Barangelektronik
     {
          cout << "Nama: " << nama << endl;
          cout << "jumlah :" << jumlah << endl;
-         
+         cout << "Kategori :" << kategori << endl;
+         cout << "tanggalProduksi :" << tanggalProduksi << endl;
     }
 
 }
