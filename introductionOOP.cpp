@@ -16,6 +16,8 @@ class Mahasiswa
     cout << "Nilai :"  << nilai << endl;
     }
 
+};
+
 
 
 
