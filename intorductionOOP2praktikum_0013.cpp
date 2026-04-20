@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Barang
+class Barangelektronik
 {
     public:
     string nama;
@@ -11,7 +11,8 @@ class Barang
 
     void spesifikasi()
     {
-        
+         cout << "Nama: " << nama << endl;
+         
     }
 
 }
