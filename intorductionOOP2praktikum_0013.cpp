@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Barangelektronik
+class Barang
 {
     public:
     string nama;
@@ -18,3 +18,8 @@ class Barangelektronik
     }
 
 };
+
+int main()
+{
+    
+}
