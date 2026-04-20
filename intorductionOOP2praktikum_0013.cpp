@@ -9,4 +9,9 @@ class Barang
     string kategori;
     string tanggalProduksi;
 
+    void spesifikasi()
+    {
+        
+    }
+
 }
