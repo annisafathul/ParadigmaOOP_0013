@@ -12,6 +12,7 @@ class Barangelektronik
     void spesifikasi()
     {
          cout << "Nama: " << nama << endl;
+         cout << "jumlah :" << jumlah << endl;
          
     }
 
