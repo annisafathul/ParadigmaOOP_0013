@@ -18,6 +18,9 @@ class Mahasiswa
 
 };
 
+int main()
+
+
 
 
 
